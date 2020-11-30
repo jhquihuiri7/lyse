@@ -1,0 +1,30 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "oficinas",
+            "icon" : "oficinas",
+            "texto": "LIMPIEZA DE OFICINAS",
+            "tap"  : false
+        },
+        {
+            "ruta" : "especial",
+            "icon" : "especial",
+            "texto": "LIMPIEZA ESPECIAL",
+            "tap"  : false
+        },
+        {
+            "ruta" : "eventos",
+            "icon" : "eventos",
+            "texto": "LIMPIEZA DE EVENTOS",
+            "tap"  : false
+        },
+        {
+            "ruta" : "casas",
+            "icon" : "casas",
+            "texto": "LIMPIEZA DE CASAS",
+            "tap"  : false
+        }
+
+    ]
+}
